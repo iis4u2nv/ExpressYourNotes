@@ -14,6 +14,9 @@ The following images show the web application's appearance and functionality:
 Assets\Screenshot (156).png
 ![Note titled “Pay Airbnb taxes” reads, “Pay Airbnb taxes at the begining of each month” with other notes listed on the left.](./Assets/Screenshot_(158).png)
 
+The following video shows the web application's appearance and functionality:
+
+https://https://app.screencastify.com/manage/videos/ENoBVK6VFhTUBTLyeTlF
 
 ## License
 no license
