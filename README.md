@@ -9,10 +9,10 @@ Creating a note taker dynamically. As I open the Note Taker application, there w
 The following images show the web application's appearance and functionality:
 
 "C:\Users\agrac\OneDrive\Desktop\BootCamp Class work\ExpressYourNotes\Assets"
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./ExpressYourNotes/Assets/Screenshot%(156).png)
+![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/Screenshot%(156).png)
 
 Assets\Screenshot (156).png
-![Note titled “Pay Airbnb taxes” reads, “Pay Airbnb taxes at the begining of each month” with other notes listed on the left.](./ExpressYourNotes/Assets/Screenshot%(158).png)
+![Note titled “Pay Airbnb taxes” reads, “Pay Airbnb taxes at the begining of each month” with other notes listed on the left.](./Assets/Screenshot%(158).png)
 
 The following video shows the web application's appearance and functionality:
 
