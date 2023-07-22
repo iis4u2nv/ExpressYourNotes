@@ -9,6 +9,8 @@ Creating a note taker dynamically. As I open the Note Taker application, there w
 The following images show the web application's appearance and functionality:
 ![Screen Shot](assets/images/Screenshot(119).png)
 
+https://github.com/iis4u2nv/ExpressYourNotes/blob/main/Assets/Screenshot%20(156).png
+
 ![Screen Shot](./Assets/Screenshot(156).png)
 
 
