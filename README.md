@@ -7,12 +7,12 @@ Creating a note taker dynamically. As I open the Note Taker application, there w
 ## Mock up
 
 The following images show the web application's appearance and functionality:
+![Screen Shot](assets/images/Screenshot(119).png)
 
-"C:\Users\agrac\OneDrive\Desktop\BootCamp Class work\ExpressYourNotes\Assets"
-(./Assets/Screenshot%(156).png)
+![Screen Shot](./Assets/Screenshot(156).png)
 
-Assets\Screenshot (156).png
-![Note titled “Pay Airbnb taxes” reads, “Pay Airbnb taxes at the begining of each month” with other notes listed on the left.](./Assets/Screenshot%(158).png)
+
+![Screen Shot](./Assets/Screenshot(158).png)
 
 The following video shows the web application's appearance and functionality:
 
