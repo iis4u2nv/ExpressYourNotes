@@ -17,5 +17,7 @@ The following video shows the web application's appearance and functionality:
 
 [https://https://app.screencastify.com/manage/videos/ENoBVK6VFhTUBTLyeTlF](https://drive.google.com/file/d/1xhaEQRWcSYdkyRSbEdsE-m-PpJrqAj69/view)
 
+https://drive.google.com/file/d/1xhaEQRWcSYdkyRSbEdsE-m-PpJrqAj69/view
+
 ## License
 no license
