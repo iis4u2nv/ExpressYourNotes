@@ -9,14 +9,14 @@ Creating a note taker dynamically. As I open the Note Taker application, there w
 The following images show the web application's appearance and functionality:
 
 
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](Assets/Screenshot%(156).png)
+![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](Assets/Screenshot%156(156).png)
 
 Assets\Screenshot (156).png
-![Note titled “Pay Airbnb taxes” reads, “Pay Airbnb taxes at the begining of each month” with other notes listed on the left.](./assets/Screenshot%(158).png)
+![Note titled “Pay Airbnb taxes” reads, “Pay Airbnb taxes at the begining of each month” with other notes listed on the left.](./assets/Screenshot%158(158).png)
 
 The following video shows the web application's appearance and functionality:
 
-[https://https://app.screencastify.com/manage/videos/ENoBVK6VFhTUBTLyeTlF](https://drive.google.com/file/d/1xhaEQRWcSYdkyRSbEdsE-m-PpJrqAj69/view)https://drive.google.com/file/d/1xhaEQRWcSYdkyRSbEdsE-m-PpJrqAj69/view
+[https://https://app.screencastify.com/manage/videos/ENoBVK6VFhTUBTLyeTlF](https://drive.google.com/file/d/1xhaEQRWcSYdkyRSbEdsE-m-PpJrqAj69/view)
 
 ## License
 no license
